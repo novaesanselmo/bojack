@@ -1,0 +1,3 @@
+Questão 1. O git consite em uma plataforma de compartilhamento de código, permitindo que outros usuários possam contribuir com alterações nos códigos compartilhados.
+
+Questão 2: Uma pasta com o nome do repositório criado no github foi criad no computador. 
